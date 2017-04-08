@@ -15,7 +15,7 @@ int idxShader = 0;
 
 void setup() 
 {
-  size(640, 480, P2D);
+  size(1920, 1080, P2D);
   textSize(22);
   fill(0);
 
