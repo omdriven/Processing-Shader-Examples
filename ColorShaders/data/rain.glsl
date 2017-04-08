@@ -17,7 +17,7 @@ uniform float gray;
 
 
 // GLSL textureless classic 2D noise "cnoise",
-// with an RSL-style periodic variant "pnoise".
+// with an RSL-getStyle periodic variant "pnoise".
 // Author: Stefan Gustavson (stefan.gustavson@liu.se)
 // Version: 2011-08-22
 //
